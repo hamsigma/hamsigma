@@ -14,9 +14,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsigma&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamsigma/hamsigma/output/github-snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/hamsigma/hamsigma/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
