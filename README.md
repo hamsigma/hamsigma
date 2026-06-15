@@ -14,6 +14,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsigma&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamsigma/hamsigma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 > _Thank you for visiting my profile! Feel free to check my repositories 👇_ 
