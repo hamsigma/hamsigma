@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 > **Hello world!** I'm **Ilham Ramadhani**, an Informatics Engineering student at **Universitas Muhammadiyah Kalimantan Timur (UMKT)** with a deep fascination for **Artificial Intelligence** and modern software development. Always eager to explore emerging technologies, solve complex challenges, and build impactful digital experiences.
 
