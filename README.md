@@ -57,11 +57,11 @@
 
 ---
 
-### GitHub Stats & Streaks
+### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamsigma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsigma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hamsigma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=hamsigma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
